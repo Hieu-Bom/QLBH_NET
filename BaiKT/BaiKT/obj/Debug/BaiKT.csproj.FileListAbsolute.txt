@@ -1,0 +1,11 @@
+D:\Code\C#\Form\BaiKT\BaiKT\obj\Debug\BaiKT.csproj.AssemblyReference.cache
+D:\Code\C#\Form\BaiKT\BaiKT\obj\Debug\BaiKT.csproj.SuggestedBindingRedirects.cache
+D:\Code\C#\Form\BaiKT\BaiKT\obj\Debug\BaiKT.Form1.resources
+D:\Code\C#\Form\BaiKT\BaiKT\obj\Debug\BaiKT.Properties.Resources.resources
+D:\Code\C#\Form\BaiKT\BaiKT\obj\Debug\BaiKT.csproj.GenerateResource.cache
+D:\Code\C#\Form\BaiKT\BaiKT\obj\Debug\BaiKT.csproj.CoreCompileInputs.cache
+D:\Code\C#\Form\BaiKT\BaiKT\bin\Debug\BaiKT.exe.config
+D:\Code\C#\Form\BaiKT\BaiKT\bin\Debug\BaiKT.exe
+D:\Code\C#\Form\BaiKT\BaiKT\bin\Debug\BaiKT.pdb
+D:\Code\C#\Form\BaiKT\BaiKT\obj\Debug\BaiKT.exe
+D:\Code\C#\Form\BaiKT\BaiKT\obj\Debug\BaiKT.pdb
